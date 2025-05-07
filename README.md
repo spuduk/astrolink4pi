@@ -106,7 +106,7 @@ AstroLink 4 Pi driver installation (for revisions 2 and older)
 git clone https://github.com/astrojolo/astrolink4pi
 cd astrolink4pi
 mkdir build && cd build
-git checkout 3.0.1
+git checkout 3.0.2
 cmake -DCMAKE_INSTALL_PREFIX=/usr ..
 sudo make install
 ```
